@@ -1,0 +1,1 @@
+El Principado de Asturias es una comunidad autónoma uniprovincial de España, con una población de 1 004 499 habitantes (INE 2022).​ Bañada al norte por las aguas del mar Cantábrico, limita al oeste con la provincia de Lugo (Galicia), al sur con la provincia de León (Castilla y León) y al este con Cantabria. (Wikipedia)

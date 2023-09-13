@@ -1,0 +1,20 @@
+baseURL = "https://es.shoogle.net/asturias/"
+languageCode = "es"
+title = "Asturias"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "asturias"
+
+[taxonomies]
+  shop = "shops"
+
