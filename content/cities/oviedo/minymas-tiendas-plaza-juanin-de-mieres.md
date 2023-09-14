@@ -1,5 +1,5 @@
 ---
 title: "minymas tiendas"
-url: /oviedo/minymas-tiendas/
+url: /oviedo/minymas-tiendas-plaza-juanin-de-mieres/
 shop: supermercado
 ---

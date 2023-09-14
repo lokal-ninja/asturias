@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /oviedo-uvieu/mercadona/
+url: /oviedo-uvieu/mercadona-avenida-de-lisboa/
 shop: supermercado
 ---

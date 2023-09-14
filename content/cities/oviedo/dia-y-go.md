@@ -1,5 +1,5 @@
 ---
 title: "Dia & Go"
-url: /oviedo/dia-und-go/
+url: /oviedo/dia-y-go/
 shop: comodidad
 ---

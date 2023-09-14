@@ -1,5 +1,5 @@
 ---
 title: "Primaprix"
-url: /oviedo/primaprix/
+url: /oviedo/primaprix-calle-fruela/
 shop: supermercado
 ---

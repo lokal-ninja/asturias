@@ -1,5 +1,5 @@
 ---
 title: "ANRE"
-url: /oviedo/anre/
+url: /oviedo/anre-calle-marcelino-suarez/
 shop: general
 ---

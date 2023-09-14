@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
-url: /oviedo-uvieu/alimerka/
+url: /oviedo-uvieu/alimerka-calle-benjamin-ortiz/
 shop: supermercado
 ---

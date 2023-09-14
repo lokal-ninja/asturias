@@ -1,5 +1,5 @@
 ---
 title: "minymas tiendas"
-url: /oviedo/minymas-tiendas/
+url: /oviedo/minymas-tiendas-calle-fuertes-acevedo/
 shop: supermercado
 ---

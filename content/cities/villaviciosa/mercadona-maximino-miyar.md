@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /villaviciosa/mercadona/
+url: /villaviciosa/mercadona-maximino-miyar/
 shop: supermercado
 ---

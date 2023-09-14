@@ -1,5 +1,5 @@
 ---
 title: "Din & Don Jugueterías"
-url: /oviedo/din-und-don-jugueterias/
+url: /oviedo/din-y-don-jugueterias/
 shop: juguetes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "INFOTÉCNIK@S"
-url: /oviedo/infotecnikans/
+url: /oviedo/infotecnikens/
 shop: ordenador
 ---

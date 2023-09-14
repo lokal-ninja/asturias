@@ -1,5 +1,5 @@
 ---
 title: "Namuka & Co"
-url: /oviedo-uvieu/namuka-und-co/
+url: /oviedo-uvieu/namuka-y-co/
 shop: ropa
 ---

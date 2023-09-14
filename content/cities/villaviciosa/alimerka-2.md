@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
-url: /villaviciosa/alimerka/
+url: /villaviciosa/alimerka-2/
 shop: supermercado
 ---

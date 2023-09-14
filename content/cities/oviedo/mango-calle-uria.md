@@ -1,5 +1,5 @@
 ---
 title: "Mango"
-url: /oviedo/mango/
+url: /oviedo/mango-calle-uria/
 shop: ropa
 ---
