@@ -1,5 +1,5 @@
 ---
 title: "Brico Dépôt"
-url: /trasona/brico-depot/
+url: /tresona/brico-depot/
 shop: hágalo usted mismo
 ---
