@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
-url: /gijon/alimerka-4/
+url: /gijon/alimerka-av-de-la-costa/
 shop: supermercado
 ---
