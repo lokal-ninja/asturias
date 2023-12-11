@@ -1,5 +1,5 @@
 ---
 title: "Forum Sport"
-url: /oviedo-uvieu/forum-sport/
+url: /gijon/forum-sport/
 shop: deportes
 ---
