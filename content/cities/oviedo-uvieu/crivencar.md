@@ -1,5 +1,5 @@
 ---
 title: "Crivencar"
-url: /valladolid/crivencar/
+url: /oviedo-uvieu/crivencar/
 shop: charcutería
 ---

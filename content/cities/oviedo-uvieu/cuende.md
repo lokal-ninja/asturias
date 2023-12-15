@@ -1,5 +1,5 @@
 ---
 title: "Cuende"
-url: /valladolid/cuende/
+url: /oviedo-uvieu/cuende/
 shop: joyería
 ---
