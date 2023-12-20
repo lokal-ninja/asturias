@@ -1,5 +1,5 @@
 ---
 title: "El Economato"
-url: /morea/el-economato/
+url: /morea-moreda/el-economato/
 shop: supermercado
 ---
