@@ -1,5 +1,5 @@
 ---
 title: "Starbucks"
-url: /oviedo-uvieu/starbucks/
+url: /oviedo/starbucks/
 shop: café
 ---
