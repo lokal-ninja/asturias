@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
-url: /oviedo/carrefour-express-plaza-de-la-paz/
+url: /gijon-xixon/carrefour-express-2/
 shop: comodidad
 ---
