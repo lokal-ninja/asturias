@@ -1,5 +1,5 @@
 ---
 title: "Sabimiano Clemente"
 url: /oviedo-uvieu/sabimiano-clemente/
-shop: general
+shop: tienda rural
 ---
