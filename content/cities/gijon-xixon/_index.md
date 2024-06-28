@@ -1,6 +1,6 @@
 ---
 title: Gijon-Xixon
 url: /gijon-xixon/
-latitude: 43.541
-longitude: -5.67
+latitude: 43.536
+longitude: -5.684
 ---
