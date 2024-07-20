@@ -2,5 +2,5 @@
 title: Lugones
 url: /lugones/
 latitude: 43.408
-longitude: -5.805
+longitude: -5.804
 ---

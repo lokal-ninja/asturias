@@ -1,5 +1,5 @@
 ---
 title: "LAVIROLA"
 url: /taramundi/lavirola/
-shop: general
+shop: regalo
 ---
