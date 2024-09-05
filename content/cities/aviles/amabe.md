@@ -1,5 +1,5 @@
 ---
 title: "Amabe"
 url: /aviles/amabe/
-shop: peluquería
+shop: Friseur
 ---

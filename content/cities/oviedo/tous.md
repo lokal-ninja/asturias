@@ -1,5 +1,5 @@
 ---
 title: "Tous"
 url: /oviedo/tous/
-shop: joyería
+shop: Schmuck
 ---

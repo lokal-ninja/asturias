@@ -1,5 +1,5 @@
 ---
 title: "Minymas"
 url: /nueva/minymas/
-shop: supermercado
+shop: Supermarkt
 ---

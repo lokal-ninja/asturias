@@ -1,5 +1,5 @@
 ---
 title: "Supercor"
 url: /luanco-lluanco/supercor/
-shop: supermercado
+shop: Supermarkt
 ---

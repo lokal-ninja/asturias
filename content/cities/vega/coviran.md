@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /vega/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

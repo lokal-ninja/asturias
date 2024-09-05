@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /oviedo/sephora/
-shop: cosméticos
+shop: Kosmetik
 ---

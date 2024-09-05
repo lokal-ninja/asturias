@@ -1,5 +1,5 @@
 ---
 title: "Berna"
 url: /oviedo/berna/
-shop: ropa
+shop: Kleidung
 ---

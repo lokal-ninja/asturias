@@ -1,5 +1,5 @@
 ---
 title: "The Corner"
 url: /aviles/the-corner/
-shop: ropa
+shop: Kleidung
 ---

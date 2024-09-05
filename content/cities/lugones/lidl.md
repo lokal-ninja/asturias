@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /lugones/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /oviedo/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

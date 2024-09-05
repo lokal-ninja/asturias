@@ -1,5 +1,5 @@
 ---
 title: "Tukán"
 url: /oviedo/tukan/
-shop: copyshop
+shop: Kopieren
 ---

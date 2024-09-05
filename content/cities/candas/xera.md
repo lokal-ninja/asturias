@@ -1,5 +1,5 @@
 ---
 title: "Xera"
 url: /candas/xera/
-shop: ropa
+shop: Kleidung
 ---

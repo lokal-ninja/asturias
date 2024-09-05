@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /gijon-xixon/dia/
-shop: supermercado
+shop: Supermarkt
 ---

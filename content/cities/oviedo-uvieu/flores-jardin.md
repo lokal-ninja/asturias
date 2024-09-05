@@ -1,5 +1,5 @@
 ---
 title: "Flores Jardín"
 url: /oviedo-uvieu/flores-jardin/
-shop: floristería
+shop: Blumen
 ---

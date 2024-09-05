@@ -1,5 +1,5 @@
 ---
 title: "Ojanguren"
 url: /oviedo-uvieu/ojanguren/
-shop: libros
+shop: Bücher
 ---

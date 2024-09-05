@@ -1,5 +1,5 @@
 ---
 title: "Roberto Verino"
 url: /oviedo/roberto-verino/
-shop: ropa
+shop: Kleidung
 ---

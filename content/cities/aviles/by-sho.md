@@ -1,5 +1,5 @@
 ---
 title: "By-Sho"
 url: /aviles/by-sho/
-shop: joyería
+shop: Schmuck
 ---

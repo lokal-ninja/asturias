@@ -1,5 +1,5 @@
 ---
 title: "DISCOFER"
 url: /oviedo/discofer/
-shop: lámparas
+shop: Lampen
 ---

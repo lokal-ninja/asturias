@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
 url: /oviedo-uvieu/alimerka-2/
-shop: supermercado
+shop: Supermarkt
 ---

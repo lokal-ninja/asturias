@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /candas/alcampo/
-shop: supermercado
+shop: Supermarkt
 ---

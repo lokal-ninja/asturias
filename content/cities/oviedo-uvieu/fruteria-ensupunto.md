@@ -1,5 +1,5 @@
 ---
 title: "Frutería Ensupunto"
 url: /oviedo-uvieu/fruteria-ensupunto/
-shop: frutería
+shop: Gemüse & Obst
 ---

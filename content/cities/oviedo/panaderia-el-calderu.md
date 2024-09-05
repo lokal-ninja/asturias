@@ -1,5 +1,5 @@
 ---
 title: "Panadería El Calderu"
 url: /oviedo/panaderia-el-calderu/
-shop: panadería
+shop: Bäckerei
 ---

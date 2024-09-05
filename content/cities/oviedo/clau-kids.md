@@ -1,5 +1,5 @@
 ---
 title: "Clau kids"
 url: /oviedo/clau-kids/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "mami zapatos"
 url: /oviedo/mami-zapatos/
-shop: zapatos
+shop: Schuhe
 ---

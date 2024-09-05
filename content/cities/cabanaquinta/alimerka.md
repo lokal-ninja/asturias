@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
 url: /cabanaquinta/alimerka/
-shop: supermercado
+shop: Supermarkt
 ---

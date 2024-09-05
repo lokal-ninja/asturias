@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /gijon-xixon/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

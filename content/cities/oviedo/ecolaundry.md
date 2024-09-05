@@ -1,5 +1,5 @@
 ---
 title: "Ecolaundry"
 url: /oviedo/ecolaundry/
-shop: lavandería
+shop: Wäscherei
 ---

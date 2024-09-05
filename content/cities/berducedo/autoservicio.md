@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio"
 url: /berducedo/autoservicio/
-shop: comodidad
+shop: Lebensmittel
 ---

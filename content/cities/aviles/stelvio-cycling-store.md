@@ -1,5 +1,5 @@
 ---
 title: "Stelvio Cycling Store"
 url: /aviles/stelvio-cycling-store/
-shop: bicicleta
+shop: Fahrrad
 ---

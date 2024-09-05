@@ -1,5 +1,5 @@
 ---
 title: "La fruteria"
 url: /oviedo-uvieu/la-fruteria/
-shop: frutería
+shop: Gemüse & Obst
 ---

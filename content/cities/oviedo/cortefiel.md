@@ -1,5 +1,5 @@
 ---
 title: "Cortefiel"
 url: /oviedo/cortefiel/
-shop: ropa
+shop: Kleidung
 ---

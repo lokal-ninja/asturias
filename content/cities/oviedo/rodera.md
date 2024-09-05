@@ -1,5 +1,5 @@
 ---
 title: "Rodera"
 url: /oviedo/rodera/
-shop: supermercado
+shop: Supermarkt
 ---

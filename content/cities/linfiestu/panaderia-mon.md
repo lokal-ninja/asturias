@@ -1,5 +1,5 @@
 ---
 title: "Panadería Mon"
 url: /linfiestu/panaderia-mon/
-shop: panadería
+shop: Bäckerei
 ---

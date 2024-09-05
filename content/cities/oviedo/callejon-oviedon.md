@@ -1,5 +1,5 @@
 ---
 title: "Callejón Oviedon"
 url: /oviedo/callejon-oviedon/
-shop: juguetes
+shop: Spielzeug
 ---

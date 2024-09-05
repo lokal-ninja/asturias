@@ -1,5 +1,5 @@
 ---
 title: "Farrutx"
 url: /oviedo/farrutx/
-shop: ropa
+shop: Kleidung
 ---

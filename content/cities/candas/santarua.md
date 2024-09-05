@@ -1,5 +1,5 @@
 ---
 title: "Santarúa"
 url: /candas/santarua/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cortefiel mujer"
 url: /gijon-xixon/cortefiel-mujer/
-shop: ropa
+shop: Kleidung
 ---

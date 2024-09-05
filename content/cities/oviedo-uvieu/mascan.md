@@ -1,5 +1,5 @@
 ---
 title: "máscan"
 url: /oviedo-uvieu/mascan/
-shop: mascotas
+shop: Tiere
 ---

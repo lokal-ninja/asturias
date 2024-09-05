@@ -1,5 +1,5 @@
 ---
 title: "Druni"
 url: /oviedo/druni/
-shop: perfumería
+shop: Parfümerie
 ---

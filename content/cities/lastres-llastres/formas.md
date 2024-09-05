@@ -1,5 +1,5 @@
 ---
 title: "Formas"
 url: /lastres-llastres/formas/
-shop: peluquería
+shop: Friseur
 ---

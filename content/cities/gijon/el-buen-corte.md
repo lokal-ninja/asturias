@@ -1,5 +1,5 @@
 ---
 title: "El Buen Corte"
 url: /gijon/el-buen-corte/
-shop: carnicero
+shop: Metzgerei
 ---

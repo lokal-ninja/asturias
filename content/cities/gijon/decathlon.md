@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /gijon/decathlon/
-shop: deportes
+shop: Sport
 ---

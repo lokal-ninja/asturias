@@ -1,5 +1,5 @@
 ---
 title: "Elisa Enmarcaciones"
 url: /navia/elisa-enmarcaciones/
-shop: marco
+shop: Rahmen
 ---

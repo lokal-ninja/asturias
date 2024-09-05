@@ -1,5 +1,5 @@
 ---
 title: "HOFF"
 url: /oviedo/hoff/
-shop: zapatos
+shop: Schuhe
 ---

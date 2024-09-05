@@ -1,5 +1,5 @@
 ---
 title: "Boutique Casino"
 url: /oviedo/boutique-casino/
-shop: ropa
+shop: Kleidung
 ---

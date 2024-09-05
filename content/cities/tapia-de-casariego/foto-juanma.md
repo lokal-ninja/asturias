@@ -1,5 +1,5 @@
 ---
 title: "Foto Juanma"
 url: /tapia-de-casariego/foto-juanma/
-shop: foto
+shop: Foto
 ---

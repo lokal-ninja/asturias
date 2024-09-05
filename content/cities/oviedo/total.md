@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /oviedo/total/
-shop: comodidad
+shop: Lebensmittel
 ---

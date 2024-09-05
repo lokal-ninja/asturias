@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /paredes/fnac/
-shop: electrónica
+shop: Elektronik
 ---

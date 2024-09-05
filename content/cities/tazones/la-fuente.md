@@ -1,5 +1,5 @@
 ---
 title: "La Fuente"
 url: /tazones/la-fuente/
-shop: regalo
+shop: Andenken
 ---

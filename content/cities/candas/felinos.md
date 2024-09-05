@@ -1,5 +1,5 @@
 ---
 title: "Felinos"
 url: /candas/felinos/
-shop: zapatos
+shop: Schuhe
 ---

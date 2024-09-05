@@ -1,5 +1,5 @@
 ---
 title: "El Carmen"
 url: /grado-grau/el-carmen/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sella Express Autolavanderia"
 url: /ribadesella/sella-express-autolavanderia/
-shop: lavandería
+shop: Wäscherei
 ---

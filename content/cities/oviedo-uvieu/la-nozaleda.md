@@ -1,5 +1,5 @@
 ---
 title: "La Nozaleda"
 url: /oviedo-uvieu/la-nozaleda/
-shop: frutería
+shop: Gemüse & Obst
 ---

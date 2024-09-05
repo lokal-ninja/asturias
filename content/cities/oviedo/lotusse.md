@@ -1,5 +1,5 @@
 ---
 title: "Lotusse"
 url: /oviedo/lotusse/
-shop: zapatos
+shop: Schuhe
 ---

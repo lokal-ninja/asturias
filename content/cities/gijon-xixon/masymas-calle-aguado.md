@@ -1,5 +1,5 @@
 ---
 title: "masymas"
 url: /gijon-xixon/masymas-calle-aguado/
-shop: supermercado
+shop: Supermarkt
 ---

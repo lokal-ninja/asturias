@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /oviedo/vodafone/
-shop: teléfono móvil
+shop: Handy
 ---

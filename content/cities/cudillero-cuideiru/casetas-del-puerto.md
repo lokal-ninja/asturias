@@ -1,5 +1,5 @@
 ---
 title: "Casetas del puerto"
 url: /cudillero-cuideiru/casetas-del-puerto/
-shop: regalo
+shop: Andenken
 ---

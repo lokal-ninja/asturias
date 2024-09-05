@@ -1,5 +1,5 @@
 ---
 title: "Gomy"
 url: /oviedo-uvieu/gomy/
-shop: quiosco
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Taramundi"
 url: /taramundi/carniceria-taramundi/
-shop: carnicero
+shop: Metzgerei
 ---

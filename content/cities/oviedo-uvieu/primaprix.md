@@ -1,5 +1,5 @@
 ---
 title: "Primaprix"
 url: /oviedo-uvieu/primaprix/
-shop: supermercado
+shop: Supermarkt
 ---

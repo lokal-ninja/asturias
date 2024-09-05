@@ -1,5 +1,5 @@
 ---
 title: "Borsalino"
 url: /oviedo/borsalino/
-shop: ropa
+shop: Kleidung
 ---

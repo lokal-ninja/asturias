@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /oviedo-uvieu/tedi/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

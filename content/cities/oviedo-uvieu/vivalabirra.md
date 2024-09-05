@@ -1,5 +1,5 @@
 ---
 title: "Vivalabirra"
 url: /oviedo-uvieu/vivalabirra/
-shop: alcohol
+shop: Spirituosen
 ---

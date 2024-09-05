@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /tresona/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

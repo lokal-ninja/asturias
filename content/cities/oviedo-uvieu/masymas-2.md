@@ -1,5 +1,5 @@
 ---
 title: "masymas"
 url: /oviedo-uvieu/masymas-2/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "miguel"
 url: /oviedo-uvieu/miguel/
-shop: ropa
+shop: Kleidung
 ---

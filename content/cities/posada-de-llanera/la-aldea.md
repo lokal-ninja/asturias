@@ -1,5 +1,5 @@
 ---
 title: "La Aldea"
 url: /posada-de-llanera/la-aldea/
-shop: panadería
+shop: Bäckerei
 ---

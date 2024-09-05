@@ -1,5 +1,5 @@
 ---
 title: "El Economato"
 url: /gijon-xixon/el-economato/
-shop: supermercado
+shop: Supermarkt
 ---
