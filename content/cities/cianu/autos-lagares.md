@@ -1,5 +1,5 @@
 ---
 title: "autos Lagares"
 url: /cianu/autos-lagares/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

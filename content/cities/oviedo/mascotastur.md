@@ -1,5 +1,5 @@
 ---
 title: "Mascotastur"
 url: /oviedo/mascotastur/
-shop: Tiere
+shop: mascotas
 ---

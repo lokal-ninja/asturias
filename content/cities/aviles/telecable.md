@@ -1,5 +1,5 @@
 ---
 title: "Telecable"
 url: /aviles/telecable/
-shop: Handy
+shop: teléfono móvil
 ---

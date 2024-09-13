@@ -1,5 +1,5 @@
 ---
 title: "Xiaomi"
 url: /paredes/xiaomi/
-shop: Handy
+shop: teléfono móvil
 ---

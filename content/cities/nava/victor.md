@@ -1,5 +1,5 @@
 ---
 title: "Víctor"
 url: /nava/victor/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cadillac"
 url: /perlora/cadillac/
-shop: Friseur
+shop: peluquería
 ---

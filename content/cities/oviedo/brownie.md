@@ -1,5 +1,5 @@
 ---
 title: "Brownie"
 url: /oviedo/brownie/
-shop: Kleidung
+shop: ropa
 ---

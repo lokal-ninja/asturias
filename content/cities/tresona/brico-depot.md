@@ -1,5 +1,5 @@
 ---
 title: "Brico Dépôt"
 url: /tresona/brico-depot/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

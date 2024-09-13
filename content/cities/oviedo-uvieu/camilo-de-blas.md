@@ -1,5 +1,5 @@
 ---
 title: "Camilo de Blas"
 url: /oviedo-uvieu/camilo-de-blas/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pasos"
 url: /vegadeo/pasos/
-shop: Schuhe
+shop: zapatos
 ---

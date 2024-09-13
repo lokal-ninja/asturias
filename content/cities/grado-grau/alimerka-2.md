@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
 url: /grado-grau/alimerka-2/
-shop: Supermarkt
+shop: supermercado
 ---

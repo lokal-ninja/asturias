@@ -1,5 +1,5 @@
 ---
 title: "Tabacos"
 url: /aviles/tabacos/
-shop: Tabak
+shop: tabaco
 ---

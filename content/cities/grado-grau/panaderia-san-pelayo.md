@@ -1,5 +1,5 @@
 ---
 title: "Panadería San Pelayo"
 url: /grado-grau/panaderia-san-pelayo/
-shop: Bäckerei
+shop: panadería
 ---

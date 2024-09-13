@@ -1,5 +1,5 @@
 ---
 title: "Xinapsis Informática"
 url: /piedras-blancas/xinapsis-informatica/
-shop: Computer
+shop: ordenador
 ---

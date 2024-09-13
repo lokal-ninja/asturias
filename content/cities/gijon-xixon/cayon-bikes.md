@@ -1,5 +1,5 @@
 ---
 title: "Cayón bikes"
 url: /gijon-xixon/cayon-bikes/
-shop: Fahrrad
+shop: bicicleta
 ---

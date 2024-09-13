@@ -1,5 +1,5 @@
 ---
 title: "Novias Carmen Molero"
 url: /oviedo/novias-carmen-molero/
-shop: Kleidung
+shop: ropa
 ---

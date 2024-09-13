@@ -1,5 +1,5 @@
 ---
 title: "Habana Motor"
 url: /gijon-xixon/habana-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

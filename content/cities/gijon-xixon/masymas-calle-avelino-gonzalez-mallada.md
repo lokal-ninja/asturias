@@ -1,5 +1,5 @@
 ---
 title: "masymas"
 url: /gijon-xixon/masymas-calle-avelino-gonzalez-mallada/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Fernández"
 url: /candas/casa-fernandez/
-shop: Kramladen
+shop: tienda de variedades
 ---

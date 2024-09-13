@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
 url: /san-claudio/alimerka/
-shop: Supermarkt
+shop: supermercado
 ---

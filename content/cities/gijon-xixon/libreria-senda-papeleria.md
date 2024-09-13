@@ -1,5 +1,5 @@
 ---
 title: "Librería Senda Papelería"
 url: /gijon-xixon/libreria-senda-papeleria/
-shop: Bücher
+shop: libros
 ---

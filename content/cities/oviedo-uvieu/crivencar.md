@@ -1,5 +1,5 @@
 ---
 title: "Crivencar"
 url: /oviedo-uvieu/crivencar/
-shop: Feinkost
+shop: charcutería
 ---

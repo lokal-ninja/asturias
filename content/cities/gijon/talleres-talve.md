@@ -1,5 +1,5 @@
 ---
 title: "Talleres Talve"
 url: /gijon/talleres-talve/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

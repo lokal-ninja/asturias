@@ -1,5 +1,5 @@
 ---
 title: "Velatorio de Ribadesella"
 url: /ribadesella/velatorio-de-ribadesella/
-shop: Bestattungen
+shop: directores de funerarias
 ---

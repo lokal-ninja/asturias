@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
 url: /cangas-de-onis-cangues-donis/alimerka-2/
-shop: Supermarkt
+shop: supermercado
 ---

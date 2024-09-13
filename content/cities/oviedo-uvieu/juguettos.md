@@ -1,5 +1,5 @@
 ---
 title: "Juguettos"
 url: /oviedo-uvieu/juguettos/
-shop: Spielzeug
+shop: juguetes
 ---

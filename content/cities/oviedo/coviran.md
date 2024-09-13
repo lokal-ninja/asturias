@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /oviedo/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

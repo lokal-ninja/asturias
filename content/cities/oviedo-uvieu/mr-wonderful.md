@@ -1,5 +1,5 @@
 ---
 title: "Mr Wonderful"
 url: /oviedo-uvieu/mr-wonderful/
-shop: Andenken
+shop: regalo
 ---

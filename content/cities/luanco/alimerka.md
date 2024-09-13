@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
 url: /luanco/alimerka/
-shop: Supermarkt
+shop: supermercado
 ---

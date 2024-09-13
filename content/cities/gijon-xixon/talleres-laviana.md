@@ -1,5 +1,5 @@
 ---
 title: "Talleres Laviana"
 url: /gijon-xixon/talleres-laviana/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

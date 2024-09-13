@@ -1,5 +1,5 @@
 ---
 title: "Talleres Fernández Ruiz"
 url: /tresona/talleres-fernandez-ruiz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

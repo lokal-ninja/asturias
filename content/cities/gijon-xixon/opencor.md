@@ -1,5 +1,5 @@
 ---
 title: "OpenCor"
 url: /gijon-xixon/opencor/
-shop: Supermarkt
+shop: supermercado
 ---

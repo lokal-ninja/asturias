@@ -1,5 +1,5 @@
 ---
 title: "Area Natural-Herbolario"
 url: /villaviciosa/area-natural-herbolario/
-shop: Supermarkt
+shop: supermercado
 ---

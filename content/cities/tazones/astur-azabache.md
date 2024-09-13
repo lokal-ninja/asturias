@@ -1,5 +1,5 @@
 ---
 title: "Astur Azabache"
 url: /tazones/astur-azabache/
-shop: Andenken
+shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "minymas"
 url: /lastres-llastres/minymas/
-shop: Supermarkt
+shop: supermercado
 ---

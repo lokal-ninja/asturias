@@ -1,5 +1,5 @@
 ---
 title: "Delicias de Taramundi"
 url: /taramundi/delicias-de-taramundi/
-shop: Allgemein
+shop: general
 ---

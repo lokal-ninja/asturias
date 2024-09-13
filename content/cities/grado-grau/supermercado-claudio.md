@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Claudio"
 url: /grado-grau/supermercado-claudio/
-shop: Lebensmittel
+shop: comodidad
 ---

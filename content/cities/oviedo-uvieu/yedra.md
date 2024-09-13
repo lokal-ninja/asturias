@@ -1,5 +1,5 @@
 ---
 title: "Yedra"
 url: /oviedo-uvieu/yedra/
-shop: Kleidung
+shop: ropa
 ---

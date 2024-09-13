@@ -1,5 +1,5 @@
 ---
 title: "Soccerfactory Asturias"
 url: /oviedo-uvieu/soccerfactory-asturias/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Bazar Yong Xing"
 url: /oviedo/el-bazar-yong-xing/
-shop: Kramladen
+shop: tienda de variedades
 ---

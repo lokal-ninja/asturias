@@ -1,5 +1,5 @@
 ---
 title: "Cares Aventura"
 url: /panes/cares-aventura/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motorvista"
 url: /gijon-xixon/motorvista/
-shop: Autoteile
+shop: piezas de automóviles
 ---

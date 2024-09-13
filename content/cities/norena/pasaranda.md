@@ -1,5 +1,5 @@
 ---
 title: "Pasaranda"
 url: /norena/pasaranda/
-shop: Garten-Center
+shop: centro de jardinería
 ---

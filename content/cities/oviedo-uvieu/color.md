@@ -1,5 +1,5 @@
 ---
 title: "+ Color"
 url: /oviedo-uvieu/color/
-shop: Kopieren
+shop: copyshop
 ---

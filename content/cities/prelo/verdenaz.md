@@ -1,5 +1,5 @@
 ---
 title: "Verdenaz"
 url: /prelo/verdenaz/
-shop: Blumen
+shop: floristería
 ---

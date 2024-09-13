@@ -1,5 +1,5 @@
 ---
 title: "Comercio Nuevo"
 url: /taramundi/comercio-nuevo/
-shop: Dorfladen
+shop: tienda rural
 ---

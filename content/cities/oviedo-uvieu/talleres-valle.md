@@ -1,5 +1,5 @@
 ---
 title: "Talleres Valle"
 url: /oviedo-uvieu/talleres-valle/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

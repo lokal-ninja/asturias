@@ -1,5 +1,5 @@
 ---
 title: "Glow"
 url: /aviles/glow/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diego Le Barbier"
 url: /oviedo-uvieu/diego-le-barbier/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papelería Autónoma"
 url: /gijon/papeleria-autonoma/
-shop: Schreibwaren
+shop: material de oficina
 ---

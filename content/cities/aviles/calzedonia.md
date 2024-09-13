@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /aviles/calzedonia/
-shop: Kleidung
+shop: ropa
 ---

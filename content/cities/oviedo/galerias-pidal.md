@@ -1,5 +1,5 @@
 ---
 title: "Galerías Pidal"
 url: /oviedo/galerias-pidal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercería Lluvia de Ideas"
 url: /oviedo-uvieu/merceria-lluvia-de-ideas/
-shop: Nähzubehör
+shop: coser
 ---

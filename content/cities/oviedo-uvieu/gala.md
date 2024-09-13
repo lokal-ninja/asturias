@@ -1,5 +1,5 @@
 ---
 title: "Gala"
 url: /oviedo-uvieu/gala/
-shop: Schuhe
+shop: zapatos
 ---

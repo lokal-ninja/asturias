@@ -1,5 +1,5 @@
 ---
 title: "De la Uz"
 url: /oviedo-uvieu/de-la-uz/
-shop: Parfümerie
+shop: perfumería
 ---

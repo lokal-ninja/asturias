@@ -1,5 +1,5 @@
 ---
 title: "MyM Donata"
 url: /cabanaquinta/mym-donata/
-shop: Supermarkt
+shop: supermercado
 ---

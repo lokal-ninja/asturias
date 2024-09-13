@@ -1,5 +1,5 @@
 ---
 title: "Bershka"
 url: /aviles/bershka/
-shop: Kleidung
+shop: ropa
 ---

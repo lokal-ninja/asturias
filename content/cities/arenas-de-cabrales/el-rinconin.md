@@ -1,5 +1,5 @@
 ---
 title: "El Rinconín"
 url: /arenas-de-cabrales/el-rinconin/
-shop: Feinkost
+shop: charcutería
 ---

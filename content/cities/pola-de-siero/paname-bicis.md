@@ -1,5 +1,5 @@
 ---
 title: "Paname Bicis"
 url: /pola-de-siero/paname-bicis/
-shop: Fahrrad
+shop: bicicleta
 ---

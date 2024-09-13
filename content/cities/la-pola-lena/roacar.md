@@ -1,5 +1,5 @@
 ---
 title: "RoaCar"
 url: /la-pola-lena/roacar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

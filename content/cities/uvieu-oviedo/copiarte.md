@@ -1,5 +1,5 @@
 ---
 title: "Copiarte"
 url: /uvieu-oviedo/copiarte/
-shop: Schreibwaren
+shop: material de oficina
 ---

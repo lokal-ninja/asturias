@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /villaviciosa/spar/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biciastur"
 url: /gijon-xixon/biciastur/
-shop: Fahrrad
+shop: bicicleta
 ---

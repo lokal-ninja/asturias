@@ -1,5 +1,5 @@
 ---
 title: "debuenatinta"
 url: /oviedo-uvieu/debuenatinta/
-shop: Kopieren
+shop: copyshop
 ---

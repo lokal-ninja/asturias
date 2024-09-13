@@ -1,5 +1,5 @@
 ---
 title: "Muy Mucho"
 url: /oviedo/muy-mucho/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

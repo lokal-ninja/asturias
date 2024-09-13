@@ -1,5 +1,5 @@
 ---
 title: "Saby moda"
 url: /oviedo-uvieu/saby-moda/
-shop: Kleidung
+shop: ropa
 ---

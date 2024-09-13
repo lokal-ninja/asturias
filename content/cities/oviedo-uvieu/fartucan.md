@@ -1,5 +1,5 @@
 ---
 title: "Fartucan"
 url: /oviedo-uvieu/fartucan/
-shop: Tiere
+shop: mascotas
 ---

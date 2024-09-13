@@ -1,5 +1,5 @@
 ---
 title: "Masymas"
 url: /colunga/masymas/
-shop: Supermarkt
+shop: supermercado
 ---

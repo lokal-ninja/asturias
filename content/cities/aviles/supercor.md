@@ -1,5 +1,5 @@
 ---
 title: "Supercor"
 url: /aviles/supercor/
-shop: Supermarkt
+shop: supermercado
 ---

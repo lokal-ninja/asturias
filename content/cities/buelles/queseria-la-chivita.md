@@ -1,5 +1,5 @@
 ---
 title: "Quesería La Chivita"
 url: /buelles/queseria-la-chivita/
-shop: Käse
+shop: queso
 ---

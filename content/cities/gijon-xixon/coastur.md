@@ -1,5 +1,5 @@
 ---
 title: "Coastur"
 url: /gijon-xixon/coastur/
-shop: Landwirtschaftlich
+shop: agraria
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /paredes/vans/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quesería Maín"
 url: /sotres/queseria-main/
-shop: Käse
+shop: queso
 ---

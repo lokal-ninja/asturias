@@ -1,5 +1,5 @@
 ---
 title: "Cristalblx"
 url: /gijon-xixon/cristalblx/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

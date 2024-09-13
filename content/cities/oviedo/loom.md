@@ -1,5 +1,5 @@
 ---
 title: "Loom"
 url: /oviedo/loom/
-shop: Wäscherei
+shop: lavandería
 ---

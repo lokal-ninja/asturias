@@ -1,5 +1,5 @@
 ---
 title: "Alflore"
 url: /aviles/alflore/
-shop: Schmuck
+shop: joyería
 ---

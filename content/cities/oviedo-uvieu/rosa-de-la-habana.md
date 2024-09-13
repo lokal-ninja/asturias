@@ -1,5 +1,5 @@
 ---
 title: "Rosa de la Habana"
 url: /oviedo-uvieu/rosa-de-la-habana/
-shop: Friseur
+shop: peluquería
 ---

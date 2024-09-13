@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Meana"
 url: /la-pola-siero/tanatorio-meana/
-shop: Bestattungen
+shop: directores de funerarias
 ---

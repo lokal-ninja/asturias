@@ -1,5 +1,5 @@
 ---
 title: "Kioskos Mas"
 url: /oviedo-uvieu/kioskos-mas/
-shop: Kiosk
+shop: quiosco
 ---

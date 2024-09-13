@@ -1,5 +1,5 @@
 ---
 title: "SUPER Campoastur"
 url: /tapia-de-casariego/super-campoastur/
-shop: Hofladen
+shop: granja
 ---

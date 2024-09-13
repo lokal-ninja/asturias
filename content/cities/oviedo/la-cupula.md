@@ -1,5 +1,5 @@
 ---
 title: "La Cúpula"
 url: /oviedo/la-cupula/
-shop: Schuhe
+shop: zapatos
 ---

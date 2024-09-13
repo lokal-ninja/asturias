@@ -1,5 +1,5 @@
 ---
 title: "Telecable"
 url: /oviedo/telecable/
-shop: Handy
+shop: teléfono móvil
 ---

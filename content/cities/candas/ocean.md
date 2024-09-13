@@ -1,5 +1,5 @@
 ---
 title: "Ocean"
 url: /candas/ocean/
-shop: Wäscherei
+shop: lavandería
 ---

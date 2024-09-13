@@ -1,5 +1,5 @@
 ---
 title: "Grupo Vitalia"
 url: /gijon-xixon/grupo-vitalia/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

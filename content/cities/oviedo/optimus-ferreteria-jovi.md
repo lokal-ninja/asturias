@@ -1,5 +1,5 @@
 ---
 title: "OPTIMUS - Ferretería Jovi"
 url: /oviedo/optimus-ferreteria-jovi/
-shop: Eisenwaren
+shop: hardware
 ---

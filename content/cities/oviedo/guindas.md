@@ -1,5 +1,5 @@
 ---
 title: "Guindas"
 url: /oviedo/guindas/
-shop: Bäckerei
+shop: panadería
 ---

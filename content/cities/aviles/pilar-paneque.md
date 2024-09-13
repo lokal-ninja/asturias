@@ -1,5 +1,5 @@
 ---
 title: "Pilar Paneque"
 url: /aviles/pilar-paneque/
-shop: Kleidung
+shop: ropa
 ---

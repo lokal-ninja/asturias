@@ -1,5 +1,5 @@
 ---
 title: "Roberto Amado Electromedicina"
 url: /gijon-xixon/roberto-amado-electromedicina/
-shop: Elektronik
+shop: electrónica
 ---

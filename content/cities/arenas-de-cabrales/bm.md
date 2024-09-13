@@ -1,5 +1,5 @@
 ---
 title: "BM"
 url: /arenas-de-cabrales/bm/
-shop: Supermarkt
+shop: supermercado
 ---

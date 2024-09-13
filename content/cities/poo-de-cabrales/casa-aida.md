@@ -1,5 +1,5 @@
 ---
 title: "Casa Aída"
 url: /poo-de-cabrales/casa-aida/
-shop: Lebensmittel
+shop: comodidad
 ---

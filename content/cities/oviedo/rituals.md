@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /oviedo/rituals/
-shop: Kosmetik
+shop: cosméticos
 ---

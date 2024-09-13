@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /gijon-xixon/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

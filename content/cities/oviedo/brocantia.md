@@ -1,5 +1,5 @@
 ---
 title: "Brocantia"
 url: /oviedo/brocantia/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

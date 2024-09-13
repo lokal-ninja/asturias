@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias El Expresso"
 url: /oviedo/fotocopias-el-expresso/
-shop: Kopieren
+shop: copyshop
 ---

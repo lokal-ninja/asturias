@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /gijon-xixon/orange/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Salesas"
 url: /oviedo-uvieu/centro-comercial-salesas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

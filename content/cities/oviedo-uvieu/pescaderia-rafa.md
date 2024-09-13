@@ -1,5 +1,5 @@
 ---
 title: "Pescadería Rafa"
 url: /oviedo-uvieu/pescaderia-rafa/
-shop: Fisch
+shop: marisco
 ---

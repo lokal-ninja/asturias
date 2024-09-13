@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /gijon-xixon/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

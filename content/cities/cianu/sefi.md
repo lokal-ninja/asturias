@@ -1,5 +1,5 @@
 ---
 title: "sefi"
 url: /cianu/sefi/
-shop: Supermarkt
+shop: supermercado
 ---

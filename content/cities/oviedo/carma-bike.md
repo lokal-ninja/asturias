@@ -1,5 +1,5 @@
 ---
 title: "Carma Bike"
 url: /oviedo/carma-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

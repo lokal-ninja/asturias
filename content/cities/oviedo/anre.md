@@ -1,5 +1,5 @@
 ---
 title: "ANRE"
 url: /oviedo/anre/
-shop: Allgemein
+shop: general
 ---

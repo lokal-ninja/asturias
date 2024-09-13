@@ -1,5 +1,5 @@
 ---
 title: "Calzados Patricia García"
 url: /oviedo/calzados-patricia-garcia/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GAES"
 url: /aviles/gaes/
-shop: Hörgeräte
+shop: audífonos
 ---

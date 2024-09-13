@@ -1,5 +1,5 @@
 ---
 title: "Milar"
 url: /oviedo-uvieu/milar/
-shop: Haushaltsgeräte
+shop: aparato
 ---

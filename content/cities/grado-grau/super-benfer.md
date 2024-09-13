@@ -1,5 +1,5 @@
 ---
 title: "Super Benfer"
 url: /grado-grau/super-benfer/
-shop: Lebensmittel
+shop: comodidad
 ---

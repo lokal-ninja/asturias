@@ -1,5 +1,5 @@
 ---
 title: "BriCor"
 url: /oviedo-uvieu/bricor/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

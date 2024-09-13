@@ -1,5 +1,5 @@
 ---
 title: "Betina"
 url: /aviles/betina/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

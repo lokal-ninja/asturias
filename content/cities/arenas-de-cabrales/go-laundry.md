@@ -1,5 +1,5 @@
 ---
 title: "Go Laundry"
 url: /arenas-de-cabrales/go-laundry/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anarxya Distri"
 url: /gijon-xixon/anarxya-distri/
-shop: Bücher
+shop: libros
 ---

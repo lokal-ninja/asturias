@@ -1,5 +1,5 @@
 ---
 title: "Collada"
 url: /gijon-xixon/collada/
-shop: Konditorei
+shop: pastelería
 ---

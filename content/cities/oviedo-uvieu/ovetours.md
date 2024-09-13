@@ -1,5 +1,5 @@
 ---
 title: "Ovetours"
 url: /oviedo-uvieu/ovetours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

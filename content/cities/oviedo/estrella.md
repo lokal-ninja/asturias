@@ -1,5 +1,5 @@
 ---
 title: "Estrella"
 url: /oviedo/estrella/
-shop: Bäckerei
+shop: panadería
 ---

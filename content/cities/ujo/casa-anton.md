@@ -1,5 +1,5 @@
 ---
 title: "Casa Antón"
 url: /ujo/casa-anton/
-shop: Bäckerei
+shop: panadería
 ---

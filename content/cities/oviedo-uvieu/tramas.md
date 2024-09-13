@@ -1,5 +1,5 @@
 ---
 title: "Tramas"
 url: /oviedo-uvieu/tramas/
-shop: Betten
+shop: cama
 ---

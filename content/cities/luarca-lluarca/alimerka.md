@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
 url: /luarca-lluarca/alimerka/
-shop: Supermarkt
+shop: supermercado
 ---

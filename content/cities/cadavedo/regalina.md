@@ -1,5 +1,5 @@
 ---
 title: "Regalina"
 url: /cadavedo/regalina/
-shop: Lebensmittel
+shop: comodidad
 ---

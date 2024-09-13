@@ -1,5 +1,5 @@
 ---
 title: "Envidia Sana"
 url: /oviedo/envidia-sana/
-shop: Kleidung
+shop: ropa
 ---

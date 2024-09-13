@@ -1,5 +1,5 @@
 ---
 title: "Ilunion Gijón"
 url: /gijon-xixon/ilunion-gijon/
-shop: Wäscherei
+shop: lavandería
 ---

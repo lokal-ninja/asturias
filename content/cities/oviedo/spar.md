@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /oviedo/spar/
-shop: Supermarkt
+shop: supermercado
 ---

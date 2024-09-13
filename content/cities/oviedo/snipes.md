@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
 url: /oviedo/snipes/
-shop: Schuhe
+shop: zapatos
 ---

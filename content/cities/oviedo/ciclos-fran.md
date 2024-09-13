@@ -1,5 +1,5 @@
 ---
 title: "Ciclos Fran"
 url: /oviedo/ciclos-fran/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Santagloria"
 url: /oviedo/santagloria/
-shop: Bäckerei
+shop: panadería
 ---

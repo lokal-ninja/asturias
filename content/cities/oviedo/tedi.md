@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /oviedo/tedi/
-shop: Kramladen
+shop: tienda de variedades
 ---

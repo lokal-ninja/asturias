@@ -1,5 +1,5 @@
 ---
 title: "B Travel"
 url: /oviedo/b-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

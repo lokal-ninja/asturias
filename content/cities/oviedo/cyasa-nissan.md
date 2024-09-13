@@ -1,5 +1,5 @@
 ---
 title: "Cyasa Nissan"
 url: /oviedo/cyasa-nissan/
-shop: Autohaus
+shop: coche
 ---

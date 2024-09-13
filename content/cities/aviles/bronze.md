@@ -1,5 +1,5 @@
 ---
 title: "Bronze"
 url: /aviles/bronze/
-shop: Kleidung
+shop: ropa
 ---

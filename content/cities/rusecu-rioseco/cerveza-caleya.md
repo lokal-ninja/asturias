@@ -1,5 +1,5 @@
 ---
 title: "Cerveza Caleya"
 url: /rusecu-rioseco/cerveza-caleya/
-shop: Spirituosen
+shop: alcohol
 ---

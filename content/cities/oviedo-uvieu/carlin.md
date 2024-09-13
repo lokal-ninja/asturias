@@ -1,5 +1,5 @@
 ---
 title: "CARLiN"
 url: /oviedo-uvieu/carlin/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zapatería Alcalá"
 url: /oviedo-uvieu/zapateria-alcala/
-shop: Schuhe
+shop: zapatos
 ---

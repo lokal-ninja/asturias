@@ -1,5 +1,5 @@
 ---
 title: "Mamaandroid"
 url: /aviles/mamaandroid/
-shop: Handy
+shop: teléfono móvil
 ---

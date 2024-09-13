@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
 url: /oviedo/alimerka-calle-rosal/
-shop: Supermarkt
+shop: supermercado
 ---

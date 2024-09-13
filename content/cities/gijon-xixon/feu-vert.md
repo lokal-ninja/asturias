@@ -1,5 +1,5 @@
 ---
 title: "Feu Vert"
 url: /gijon-xixon/feu-vert/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

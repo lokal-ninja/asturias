@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /colombres/coviran/
-shop: Supermarkt
+shop: supermercado
 ---
