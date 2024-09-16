@@ -1,11 +1,11 @@
 id: 267240127
-type: way
+type: node
 latitude: 43.22218
 longitude: -5.45393
 postcode: ""
 city: Rusecu / Rioseco
-street: "Lugar El Cuitu"
-housenumber: 327
-phone: "+34 679 760 457"
+street: Lugar El Cuitu
+housenumber: "327"
+phone: +34 679 760 457
 opening_hours: ""
-website: "https://cervezacaleya.com/"
+website: https://cervezacaleya.com/

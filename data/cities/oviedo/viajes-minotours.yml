@@ -4,8 +4,8 @@ latitude: 43.36084
 longitude: -5.84885
 postcode: "33007"
 city: Oviedo
-street: "Calle Marqués de Santa Cruz"
-housenumber: 3
-phone: "+34 985222921"
-opening_hours: "Mo-Fr 09:30-13:30,16:30-20:00; Sa 10:00-13:00"
-website: "https://minotours.grupoeuropa.com/"
+street: Calle Marqués de Santa Cruz
+housenumber: "3"
+phone: +34 985222921
+opening_hours: Mo-Fr 09:30-13:30,16:30-20:00; Sa 10:00-13:00
+website: https://minotours.grupoeuropa.com/

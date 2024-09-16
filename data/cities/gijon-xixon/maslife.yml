@@ -4,8 +4,8 @@ latitude: 43.53666
 longitude: -5.64917
 postcode: "33203"
 city: Gijón/Xixón
-street: "Avenida de la Costa"
-housenumber: 125
+street: Avenida de la Costa
+housenumber: "125"
 phone: "+34984509065"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 11:30-14:00"
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 11:30-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1096081213
-type: way
+type: node
 latitude: 43.5832
 longitude: -5.77478
 postcode: "33430"
 city: Candás
-street: "Calle La Matiella"
-housenumber: 19
-phone: "+34 984181204"
-opening_hours: "Mo-Sa 09:00-21:30; Su off"
-website: "https://www.supermasymas.com/"
+street: Calle La Matiella
+housenumber: "19"
+phone: +34 984181204
+opening_hours: Mo-Sa 09:00-21:30; Su off
+website: https://www.supermasymas.com/

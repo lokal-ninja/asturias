@@ -1,11 +1,11 @@
 id: 23671448
-type: way
+type: node
 latitude: 43.36581
 longitude: -5.85025
 postcode: "33002"
 city: Oviedo / Uviéu
-street: "Calle Nueve de Mayo"
-housenumber: 2
+street: Calle Nueve de Mayo
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "http://www.salesas-cc.com/"
+opening_hours: Mo-Sa 10:00-22:00
+website: http://www.salesas-cc.com/

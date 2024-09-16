@@ -1,11 +1,11 @@
 id: 284872387
-type: way
+type: node
 latitude: 43.18295
 longitude: -5.34518
 postcode: "33990"
 city: El Campu
-street: "Arrobio"
+street: Arrobio
 housenumber: 118A
-phone: "+34 985 60 80 23"
-opening_hours: "Mo-Su 08:00-14:30,17:00-20:30"
+phone: +34 985 60 80 23
+opening_hours: Mo-Su 08:00-14:30,17:00-20:30
 website: ""

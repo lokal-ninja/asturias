@@ -4,8 +4,8 @@ latitude: 43.53513
 longitude: -5.89212
 postcode: "33404"
 city: Los Campos
-street: "Calle de el Castaño"
-housenumber: 2
+street: Calle de el Castaño
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

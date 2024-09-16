@@ -1,11 +1,11 @@
 id: 496662099
-type: way
+type: node
 latitude: 43.30324
 longitude: -4.80793
 postcode: ""
 city: Arenas de Cabrales
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "11:00-14:00,16:00-20:00"
-website: "https://www.vegadetordin.com/"
+opening_hours: 11:00-14:00,16:00-20:00
+website: https://www.vegadetordin.com/

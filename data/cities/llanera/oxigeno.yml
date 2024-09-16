@@ -1,11 +1,11 @@
 id: 254123795
-type: way
+type: node
 latitude: 43.4161
 longitude: -5.79883
 postcode: "33690"
 city: Llanera
-street: "Fonciello"
-housenumber: 51
-phone: "+34 985 22 79 75"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Fonciello
+housenumber: "51"
+phone: +34 985 22 79 75
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

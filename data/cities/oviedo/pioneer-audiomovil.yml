@@ -4,8 +4,8 @@ latitude: 43.35417
 longitude: -5.84285
 postcode: "33008"
 city: Oviedo
-street: "Calle San Mateo"
-housenumber: 10
-phone: "+34 985 203918"
+street: Calle San Mateo
+housenumber: "10"
+phone: +34 985 203918
 opening_hours: ""
-website: "https://www.pioneer.eu/"
+website: https://www.pioneer.eu/

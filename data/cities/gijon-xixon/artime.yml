@@ -4,8 +4,8 @@ latitude: 43.54074
 longitude: -5.69718
 postcode: "33213"
 city: Gijón/Xixón
-street: "Calle Oriental"
-housenumber: 11
-phone: "+34 611161956"
-opening_hours: "Mo-Th 09:30-13:30,16:00; Fr 09:30-19:00; Sa 09:30-13:30; Su off;"
-website: "https://artime.hair/"
+street: Calle Oriental
+housenumber: "11"
+phone: +34 611161956
+opening_hours: Mo-Th 09:30-13:30,16:00; Fr 09:30-19:00; Sa 09:30-13:30; Su off;
+website: https://artime.hair/

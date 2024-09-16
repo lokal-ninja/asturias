@@ -1,11 +1,11 @@
 id: 860162275
-type: way
+type: node
 latitude: 43.0814
 longitude: -5.83098
 postcode: "33629"
 city: Sotiello
-street: "Polígono Alimentario de Sotiello"
-housenumber: 
-phone: "+34 985 49 61 34"
-opening_hours: "Mo-Th 09:00-17:00; Fr 08:00-13:30; Sa-Su off"
-website: "https://escanda.es"
+street: Polígono Alimentario de Sotiello
+housenumber: ""
+phone: +34 985 49 61 34
+opening_hours: Mo-Th 09:00-17:00; Fr 08:00-13:30; Sa-Su off
+website: https://escanda.es

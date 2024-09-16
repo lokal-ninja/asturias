@@ -1,11 +1,11 @@
 id: 772993586
-type: way
+type: node
 latitude: 43.45701
 longitude: -7.05355
 postcode: "33770"
 city: A Veiga / Vegadeo
-street: "Vial del Polígono Industrial Monjardín"
-housenumber: 7
+street: Vial del Polígono Industrial Monjardín
+housenumber: "7"
 phone: "+34985634397"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-19:00"
+opening_hours: Mo-Fr 09:00-13:00,15:00-19:00
 website: ""

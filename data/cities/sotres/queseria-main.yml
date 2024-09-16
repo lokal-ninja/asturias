@@ -1,11 +1,11 @@
 id: 520048253
-type: way
+type: node
 latitude: 43.23336
 longitude: -4.7467
 postcode: ""
 city: Sotres
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://quesosdecabrales.es"
+website: https://quesosdecabrales.es

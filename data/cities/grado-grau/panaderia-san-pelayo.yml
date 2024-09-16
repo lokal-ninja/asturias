@@ -1,11 +1,11 @@
 id: 691046928
-type: way
+type: node
 latitude: 43.39323
 longitude: -6.06168
 postcode: "33820"
 city: Grado/Grau
-street: "Carretera de San Pelayo"
-housenumber: 62
-phone: "+34 985 75 01 71"
-opening_hours: "Mo-Su 03:00-15:00"
+street: Carretera de San Pelayo
+housenumber: "62"
+phone: +34 985 75 01 71
+opening_hours: Mo-Su 03:00-15:00
 website: ""

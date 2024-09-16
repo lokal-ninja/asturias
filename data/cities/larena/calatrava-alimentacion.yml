@@ -1,11 +1,11 @@
 id: 1222753400
-type: way
+type: node
 latitude: 43.56144
 longitude: -6.0711
 postcode: "33125"
 city: L'Arena
-street: "Calle Rubén Darío"
-housenumber: 24
+street: Calle Rubén Darío
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

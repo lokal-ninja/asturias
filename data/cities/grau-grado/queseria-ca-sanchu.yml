@@ -1,11 +1,11 @@
 id: 428310269
-type: way
+type: node
 latitude: 43.31702
 longitude: -6.13173
 postcode: "33826"
 city: Grau/Grado
-street: "Ambás"
-housenumber: 15
-phone: "+34 985 75 22 22"
+street: Ambás
+housenumber: "15"
+phone: +34 985 75 22 22
 opening_hours: ""
-website: "https://www.turismoasturias.es/descubre/gastronomia/queserias/ca-sanchu"
+website: https://www.turismoasturias.es/descubre/gastronomia/queserias/ca-sanchu

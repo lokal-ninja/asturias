@@ -1,11 +1,11 @@
 id: 33922804
-type: way
+type: node
 latitude: 43.41089
 longitude: -5.79184
 postcode: "33429"
 city: Urbanización La Fresneda
-street: "Camino de La Fresneda"
-housenumber: 
+street: Camino de La Fresneda
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

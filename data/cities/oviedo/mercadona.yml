@@ -1,11 +1,11 @@
 id: 23657728
-type: way
+type: node
 latitude: 43.38933
 longitude: -5.81883
 postcode: ""
 city: Oviedo
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es
