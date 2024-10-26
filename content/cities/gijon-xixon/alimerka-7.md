@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
-url: /gijon/alimerka-3/
+url: /gijon-xixon/alimerka-7/
 shop: supermercado
 ---
