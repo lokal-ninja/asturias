@@ -1,6 +1,6 @@
 ---
 title: Mieres
 url: /mieres/
-latitude: 43.257
-longitude: -5.779
+latitude: 43.25
+longitude: -5.776
 ---
