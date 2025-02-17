@@ -1,6 +1,6 @@
 ---
 title: Gijón
 url: /gijon/
-latitude: 43.54
-longitude: -5.704
+latitude: 43.537
+longitude: -5.684
 ---
