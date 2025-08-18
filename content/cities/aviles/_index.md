@@ -1,6 +1,6 @@
 ---
-title: Avilés
+title: aviles
 url: /aviles/
-latitude: 43.556
-longitude: -5.926
+latitude: 43.548
+longitude: -5.92
 ---
