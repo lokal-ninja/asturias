@@ -1,6 +1,6 @@
 ---
 title: Lluanco/Luanco
 url: /lluanco-luanco/
-latitude: 43.616
+latitude: 43.615
 longitude: -5.793
 ---
