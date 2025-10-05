@@ -1,6 +1,6 @@
 ---
 title: O Chao
 url: /o-chao/
-latitude: 43.411
-longitude: -7.144
+latitude: 43.409
+longitude: -7.143
 ---
