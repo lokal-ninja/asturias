@@ -1,6 +1,6 @@
 ---
 title: Cadavedo
 url: /cadavedo/
-latitude: 43.549
-longitude: -6.384
+latitude: 43.547
+longitude: -6.387
 ---
