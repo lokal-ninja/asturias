@@ -1,6 +1,6 @@
 ---
 title: Vegadeo
 url: /vegadeo/
-latitude: 43.465
-longitude: -7.051
+latitude: 43.464
+longitude: -7.052
 ---
