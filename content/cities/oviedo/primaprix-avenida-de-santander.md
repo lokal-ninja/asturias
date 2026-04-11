@@ -1,5 +1,5 @@
 ---
 title: "Primaprix"
-url: /oviedo/primaprix-calle-fruela/
+url: /oviedo/primaprix-avenida-de-santander/
 shop: supermercado
 ---
