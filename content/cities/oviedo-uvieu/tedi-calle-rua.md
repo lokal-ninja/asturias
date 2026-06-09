@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /oviedo-uvieu/tedi-plaza-de-la-poesia/
+url: /oviedo-uvieu/tedi-calle-rua/
 shop: tienda de variedades
 ---
