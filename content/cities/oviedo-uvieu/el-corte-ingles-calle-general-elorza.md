@@ -1,5 +1,5 @@
 ---
 title: "El Corte Inglés"
-url: /oviedo-uvieu/el-corte-ingles-calle-uria-cai-uria/
+url: /oviedo-uvieu/el-corte-ingles-calle-general-elorza/
 shop: grandes almacenes
 ---
