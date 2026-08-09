@@ -1,5 +1,5 @@
 ---
 title: "Librería Matadero Uno"
-url: /oviedo-uvieu/libreria-matadero-uno/
+url: /oviedo/libreria-matadero-uno/
 shop: libros
 ---
