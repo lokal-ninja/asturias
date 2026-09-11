@@ -1,6 +1,6 @@
 ---
-title: Ribadesella/Ribeseya
+title: Ribadesella / Ribeseya
 url: /ribadesella-ribeseya/
-latitude: 43.461
-longitude: -5.06
+latitude: 43.463
+longitude: -5.059
 ---
