@@ -1,6 +1,6 @@
 ---
 title: Siero
 url: /siero/
-latitude: 43.389
-longitude: -5.756
+latitude: 43.435
+longitude: -5.759
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Queseria Toriello"
+title: "Quesería Toriello"
 url: /igena/queseria-toriello/
 shop: queso
 ---
